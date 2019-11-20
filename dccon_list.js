@@ -91,7 +91,7 @@
 	{name:"드럼.gif",			keywords:["우리핵드럼"],	tags:["우리핵", "움짤"]},
 	{name:"밥투정.gif",			keywords:["우리핵분노"],	tags:["우리핵", "움짤"]},
 	{name:"네모.gif",			keywords:["우리핵네모"],	tags:["우리핵", "움짤"]},
-	{name:"야.gif",			keywords:["우리핵뭐야"],	tags:["우리핵", "움짤"]},
+	{name:"머야.gif",			keywords:["우리핵뭐야"],	tags:["우리핵", "움짤"]},
 	{name:"병신.gif",			keywords:["우리핵병신"],	tags:["우리핵", "움짤"]},
 	{name:"뾰로롱.gif",			keywords:["우리핵마법"],	tags:["우리핵", "움짤"]},
 	{name:"삿대질.gif",			keywords:["우리핵삿대질"],	tags:["우리핵", "움짤"]},
